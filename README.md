@@ -8,6 +8,7 @@ I am an enthusiastic 4th-year student at LPU, currently interning at Demandbase,
 - 🎓 I am pursuing my Bachelor's in Computer Science at **Lovely Professional University (LPU)**, where I have worked on various exciting projects.
 - 🌐 Passionate about **web development**, I love building dynamic and responsive web applications.
 - 🔐 Enthusiastic about **cybersecurity and pen testing**, I've explored many tools like **nmap**, **ncat**, **wireshark**, and **burpsuite** while learning the ropes of this field.
+- 💻 **Proficient in Data Structures and Algorithms (DSA) using C++** and love solving complex problems and improving my coding skills.
 
 ## Projects I've Worked On
 - **Online Code Compiler with AI**: An interactive platform for compiling code, powered by AI.
